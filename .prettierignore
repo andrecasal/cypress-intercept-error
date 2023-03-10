@@ -1,0 +1,5 @@
+# Ignore artifacts
+/api
+
+# Ignore static assets (images, fonts, etc) folder
+/public
